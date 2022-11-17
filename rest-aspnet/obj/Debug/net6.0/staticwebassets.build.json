@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9i+5uSZvVws3Shwzt/6CanmsYkLP6xMpcaiSj1VtU4I=",
+  "Source": "rest-aspnet",
+  "BasePath": "_content/rest-aspnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
