@@ -230,9 +230,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\rest-aspnet.csproj",
-      "projectName": "rest-aspnet",
-      "projectPath": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\rest-aspnet.csproj",
+      "projectUniqueName": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\api_csharp.csproj",
+      "projectName": "api_csharp",
+      "projectPath": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\api_csharp.csproj",
       "packagesPath": "C:\\Users\\hanna\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\obj\\",
       "projectStyle": "PackageReference",
