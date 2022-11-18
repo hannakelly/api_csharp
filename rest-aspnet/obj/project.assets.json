@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hanna\\rest-aspnet\\calculator_ASPNET\\calculator_ASPNET\\rest-aspnet\\rest-aspnet.csproj",
+      "projectUniqueName": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\rest-aspnet.csproj",
       "projectName": "rest-aspnet",
-      "projectPath": "C:\\Users\\hanna\\rest-aspnet\\calculator_ASPNET\\calculator_ASPNET\\rest-aspnet\\rest-aspnet.csproj",
+      "projectPath": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\rest-aspnet.csproj",
       "packagesPath": "C:\\Users\\hanna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hanna\\rest-aspnet\\calculator_ASPNET\\calculator_ASPNET\\rest-aspnet\\obj\\",
+      "outputPath": "C:\\Users\\hanna\\Desktop\\api-csharp\\rest-aspnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
